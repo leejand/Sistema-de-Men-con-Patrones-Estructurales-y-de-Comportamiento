@@ -27,9 +27,11 @@
 
 ## Autores
 
-- [Nombres del grupo aquí]
+Lucio Moreno
+Michael Lora 
 
 ## Instrucciones de entrega
 
 - Incluye capturas de código y UML en el informe PDF.
 - Sube el PDF y el repositorio a Moodle.
+
